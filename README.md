@@ -5,8 +5,10 @@ A parody of an idiom, common word, or well-known name in which
 an initial sound is copied and written over a sound from the end of
 the word.
 
+Example 1
+---------
 Elvis Pelvis
-------------
+
 ![alt text](https://github.com/jonwwilkes/onomatopwno/blob/master/elvis.gif "Elvis Pelvis animation")
 
 1. Start with celebrity name "Elvis Presley"
@@ -17,7 +19,6 @@ Elvis Pelvis
 
 Example 2
 ---------
-
 "Oh Say Can You Say?" -- a children's book by Dr. Seuss
 
 ![alt text](https://github.com/jonwwilkes/onomatopwno/blob/master/seuss.gif "Oh Say Can You Say Animation")
@@ -32,7 +33,6 @@ Example 2
 
 Example 3
 ---------
-
 "Chicken Fried Chicken." (Southern U.S. cuisine.)
 
 ![alt text](https://github.com/jonwwilkes/onomatopwno/blob/master/chicken.gif "Chicken Fried Chicken Animation")
@@ -49,7 +49,6 @@ Example 3
 
 Example 4
 ---------
-
 "Maybe I am, and maybe I am!" line spoken by Will Ferrell as "David Larry" in
 "Dog Show" sketch on SNL, Season 24, Episode 16.
 
@@ -61,7 +60,6 @@ Example 4
 
 Example 5
 ---------
-
 Onomatopwno
 
 ![alt text](https://github.com/jonwwilkes/onomatopwno/blob/master/self.gif "Onomatopwno Animation")
