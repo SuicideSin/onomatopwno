@@ -53,19 +53,6 @@ Example 3
 Example 4
 ---------
 
-"Women: Can't live with them, can't live with them."
-
-1. Start with misogynistic idiom: "Women: Can't live with them, can't live
-   without them."
-1. Copy "can't live with them".
-2. Overwrite "can't live without them".
-3. Arrive at "Women. Can't live with them, can't live with them." Misogyny
-   *and* nihilism ftw!
-4. Mispwngyny? (Damn, sorry.)
-
-Example 5
----------
-
 "Maybe I am, and maybe I am!" line spoken by Will Ferrell as "David Larry" in
 "Dog Show" sketch on SNL, Season 24, Episode 16.
 
@@ -75,7 +62,7 @@ Example 5
 4. "Maybe I am, and maybe I am!"
 5. Comedic pwnage.
 
-Example 6
+Example 5
 ---------
 
 Onomatopwno
@@ -155,11 +142,6 @@ Fractal Phrases
 
 Potentially onomatopwnos, but too terse to be sure
 --------------------------------------------------
-
-"You do you." Maybe it derives from "You do your thing, I'll do mine." Not
-sure, though.
-
-Little Ceaser's slogan "Pizza Pizza." Write over "pie" with "pizza"
 
 "Holier than holy." copy "holi" and write over "thou"
 
