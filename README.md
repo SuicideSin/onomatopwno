@@ -10,6 +10,8 @@ Example 1
 
 *Elvis Pelvis*
 
+![alt text](https://github.com/jonwwilkes/onomatopwno/blob/master/elvis.gif "Elvis Pelvis animation")
+
 1. Start with celebrity name "Elvis Presley"
 2. Copy "Elvis"
 3. Overwrite the letters "resley" of "Presley" with "elvis"
