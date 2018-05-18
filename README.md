@@ -5,11 +5,8 @@ A parody of an idiom, common word, or well-known name in which
 an initial sound is copied and written over a sound from the end of
 the word.
 
-Example 1
----------
-
-*Elvis Pelvis*
-
+Elvis Pelvis
+------------
 ![alt text](https://github.com/jonwwilkes/onomatopwno/blob/master/elvis.gif "Elvis Pelvis animation")
 
 1. Start with celebrity name "Elvis Presley"
