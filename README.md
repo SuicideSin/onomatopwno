@@ -23,6 +23,8 @@ Example 2
 
 "Oh Say Can You Say?" -- a children's book by Dr. Seuss
 
+![alt text](https://github.com/jonwwilkes/onomatopwno/blob/master/seuss.gif "Oh Say Can You Say Animation")
+
 1. Start with "Oh Say Can You See?" The title line from the U.S. national anthem
 *The Star-Spangled Banner*
 2. Copy "Say"
@@ -35,6 +37,8 @@ Example 3
 ---------
 
 "Chicken Fried Chicken." (Southern U.S. cuisine.)
+
+![alt text](https://github.com/jonwwilkes/onomatopwno/blob/master/chicken.gif "Chicken Fried Chicken Animation")
 
 1. Start with "Chicken Fried Steak," a dish consisting of cube steak
    battered and fried
@@ -75,6 +79,8 @@ Example 6
 ---------
 
 Onomatopwno
+
+![alt text](https://github.com/jonwwilkes/onomatopwno/blob/master/self.gif "Onomatopwno Animation")
 
 1. Start with "onomatopoeia."
 2. Copy "ono."
