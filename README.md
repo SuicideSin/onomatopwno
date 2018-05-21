@@ -13,6 +13,10 @@ Goal
 3. If no terminology currently describes this phenomenon, to eventually
    get multiple published articles on onomatopwnos so that I can update
    the Wikipedia page for Dr. Seuss', "Oh Say Can You Say?"
+4. If there are more of these, I'd like someone to make a js framework
+   that takes a JSON {"source": "Elvis Presley", "start": 0, "end": 5,
+       "offset": 7, "message": "pwned!" } and generate either an animated
+   gif or CSS animation of the text.
 
 Example 1
 ---------
