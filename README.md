@@ -5,6 +5,15 @@ A parody of an idiom, common word, or well-known name in which
 an initial sound is copied and written over a sound from the end of
 the word.
 
+Goal
+----
+
+1. To find out if there's already a word for these things.
+2. To find out if more of these things exist in natural language.
+3. If no terminology currently describes this phenomenon, to eventually
+   get multiple published articles on onomatopwnos so that I can update
+   the Wikipedia page for Dr. Seuss', "Oh Say Can You Say?"
+
 Example 1
 ---------
 Elvis Pelvis
@@ -58,8 +67,8 @@ Example 4
 4. "Maybe I am, and maybe I am!"
 5. Comedic pwnage.
 
-Example 5
----------
+Not Quite Onomatopwnos
+----------------------
 Onomatopwno
 
 ![alt text](https://github.com/jonwwilkes/onomatopwno/blob/master/self.gif "Onomatopwno Animation")
@@ -72,12 +81,8 @@ Onomatopwno
 6. Arrive at "onomatopwno."
 7. Romantic Ppwnwnage.
 
-not quite onomatopwnos
-======================
-
-omnibus idioms
---------------
-
+The Omnibus Idiom
+-----------------
 "It is what it is." Filler line used in TV and movie scripts
 
 1. Start with "It is what [some eloquent line of dialog giving insight into
@@ -94,9 +99,8 @@ The omnibus idiom is the conceptual inverse of an onomatopwno. Instead
 of gracefully creating a new rhythm over an old idiom, it replaces
 what could have been original material with a tired catchall.
 
-adjusted onomatopwno
+Adjusted Onomatopwno
 --------------------
-
 "Sherlock Hemlock." Character from 1980s Sesame Street.
 
 1. Start with "Sherlock Holmes"
@@ -105,9 +109,8 @@ second word after the initial "H" of "Holmes".
 3. Small adjustment: replace "H" with "H-e-m".
 4. Pwnage?
 
-backformed onomatopwno
+Backformed Onomatopwno
 ----------------------
-
 "Live and Let Live."
 
 1. Start with "Live and Let Live."
@@ -120,7 +123,6 @@ backformed onomatopwno
 
 Fractal Phrases
 ---------------
-
 "Loop the Loop"
 
 1. Start with "loop."
@@ -137,15 +139,13 @@ Fractal Phrases
 
 Potentially onomatopwnos, but too terse to be sure
 --------------------------------------------------
-
 "Holier than holy." copy "holi" and write over "thou"
 
 "Goody goody." Start with "goody two shoes," copy goody, write over
 "two shoes."
 
-poeiamatopoeia
+Poeiamatopoeia
 --------------
-
 "Sheep in sheep's clothing." Winston Churchill.
 
 Sound from the end is copied to the beginning.
